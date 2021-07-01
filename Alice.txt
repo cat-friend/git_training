@@ -1,3 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Updating the remote repository
 adding text to add this to the stash
+simulating pulling with conflicts
